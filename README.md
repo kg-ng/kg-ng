@@ -11,7 +11,7 @@
 <div align="center">
 
 <a href="https://kgn-modern-portfolio.netlify.app">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3200&pause=900&color=48CAE4&center=true&vCenter=true&width=650&lines=Building+autonomous+agentic+AI+platforms;Architecting+cloud-native+systems+on+AWS+%26+Azure;Everything+as+code+%E2%80%94+Terraform%2C+CDK%2C+Pulumi;85%2B+specialized+AI+agents+in+production;You+won't+learn+until+you+fail+%E2%80%94+so+fail+a+lot;Fail+fast%2C+learn+faster%2C+ship+stronger." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3200&pause=900&color=48CAE4&center=true&vCenter=true&width=650&lines=Building+autonomous+agentic+AI+platforms;Architecting+cloud-native+systems+on+AWS+%26+Azure;Everything+as+code+%E2%80%94+Terraform%2C+CDK%2C+Pulumi;95%2B+specialized+AI+agents+in+production;You+won't+learn+until+you+fail+%E2%80%94+so+fail+a+lot;Fail+fast%2C+learn+faster%2C+ship+stronger." alt="Typing SVG" />
 </a>
 
 <br/>
@@ -49,7 +49,7 @@ I build **scalable cloud-native systems**, modernize enterprise platforms, and d
 
 > My core specialty. I design and operate **multi-agent systems** that autonomously plan, build, secure, and govern software.
 
-- 🕸️ **Multi-Agent Systems** — built a platform of **85+ specialized AI agents** collaborating on engineering tasks
+- 🕸️ **Multi-Agent Systems** — built a platform of **95+ specialized AI agents** collaborating on engineering tasks
 - 🧠 **Agentic AI Architecture** — orchestration, memory, tool-use, and planning loops for autonomous agents
 - 🔐 **Autonomous Security Remediation** — AI pipelines that detect, patch, and validate vulnerabilities end-to-end
 - 🏛️ **Architecture Governance Agents** — automated enforcement of standards, patterns, and compliance
@@ -185,7 +185,7 @@ I build **scalable cloud-native systems**, modernize enterprise platforms, and d
 - Built a large-scale **Core Banking integration platform** on AWS
 - Provisioned infrastructure end-to-end with **IaC (Terraform / CDK)**
 - Designed **event-driven** architectures with EventBridge & SQS
-- Created an **Agentic AI Engineering Platform** of **85+ specialized AI agents**
+- Created an **Agentic AI Engineering Platform** of **95+ specialized AI agents**
 - Developed autonomous **AI-powered security remediation** pipelines
 
 </td>
